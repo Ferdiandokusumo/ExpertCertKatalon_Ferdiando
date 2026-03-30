@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can login successfully with valid credentials.</description>
+   <name>Open_Google_And_Detik</name>
+   <tag>smoke,login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4dfc9f26-7d30-4ece-80fd-0f95f0053a97</testCaseGuid>
+</TestCaseEntity>
